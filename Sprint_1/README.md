@@ -10,5 +10,4 @@ Durante as horas vagas costumo jogar vôlei, futebol, valorant e um lolzinho de 
     Conheci o Github e suas ferramentas, vi também Markdown e por fim criei um projeto de [portifólio](https://vmpimenta.github.io) responsivo com GitHub Pages.
 
 2. Linux:
-    Curso muito bom, só tinha mexido em Linux apenas uma vez, o conceito sabia pouco, nesse curso pude mergulhar no linux com a ajuda da VM e utilizei a distro Ubuntu, utilizei os comandos Vim e Nano para edição de texto, vi sobre gerenciamento de usuários e grupos, aprendi sobre as permissões e diretórios, comandos como cat, rm, cd, find, baixei arquivos, deletei, atualização de pacotes, arquivos compactados, tudo através do terminal, conceitos básicos de rede e por fim a instalação de um LAMP para um pequeno projeto utilizando o Mysql e Apache e PhP.
-
+    Curso muito bom, só tinha mexido em Linux apenas uma vez, o conceito sabia pouco, nesse curso pude mergulhar no linux com a ajuda da VM e utilizei a distro Ubuntu, utilizei os comandos Vim e Nano para edição de texto, vi sobre gerenciamento de usuários e grupos, aprendi sobre as permissões e diretórios, comandos como cat, rm, cd, find, baixei arquivos, deletei, atualização de pacotes, arquivos compactados, tudo através do terminal, conceitos básicos de rede e por fim a instalação de um LAMP para um pequeno projeto utilizando o Mysql, Apache e PhP.
