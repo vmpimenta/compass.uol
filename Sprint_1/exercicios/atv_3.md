@@ -12,9 +12,9 @@ Afora as considerações anteriores, toda estrutura do arquivo README e do próp
 
 # Olá! Meu Nome é Victor Pimenta!
 
-Cidade: [Salvador-BA](https://www.google.com/maps/place/Salvador+-+BA/@-12.8754442,-38.5017983,11z/data=!3m1!4b1!4m6!3m5!1s0x716037ca23ca5b3:0x1b9fc7912c226698!8m2!3d-12.9777334!4d-38.501648!16zL20vMDl3d2xq?entry=ttu) 
+Moro em: [Salvador-BA](https://www.google.com/maps/place/Salvador+-+BA/@-12.8754442,-38.5017983,11z/data=!3m1!4b1!4m6!3m5!1s0x716037ca23ca5b3:0x1b9fc7912c226698!8m2!3d-12.9777334!4d-38.501648!16zL20vMDl3d2xq?entry=ttu) 
 
-Curso: *3º semestre de Análise e Desenvolvimento de Sistemas* na [UNIFACS](https://www.unifacs.br)
+Cursando: *3º semestre de Análise e Desenvolvimento de Sistemas* na [UNIFACS](https://www.unifacs.br)
 
 ### Mais sobre mim:
 Tenho 25 anos, além de estar presente no time da compass.uol como estagiário, atualmente trabalho no hospital Santa Izabel na área de farmácia como auxiliar.
