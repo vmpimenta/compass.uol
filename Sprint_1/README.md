@@ -7,13 +7,13 @@
     Curso muito bom, só tinha mexido em Linux apenas uma vez, o conceito sabia pouco, nesse curso pude mergulhar no linux com a ajuda da VM e utilizei a distro Ubuntu, utilizei os comandos Vim e Nano para edição de texto, vi sobre gerenciamento de usuários e grupos, aprendi sobre as permissões e diretórios, comandos como cat, rm, cd, find, baixei arquivos, deletei, atualização de pacotes, arquivos compactados, tudo através do terminal, conceitos básicos de rede e por fim a instalação de um LAMP para um pequeno projeto utilizando o Mysql, Apache e PhP.
 
     ### Exercicios:
-    [1ª Aividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv_1.md)
+    [1ª Aividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv1.md)
 
-    [2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv_2.md)
+    [2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv2.md)
 
-    [3ª Ativdade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv_3.md)
+    [3ª Ativdade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv3.md)
 
-    [4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv_4.md)
+    [4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv4.md)
 
     # Olá! Meu Nome é Victor Pimenta!
 
