@@ -1,0 +1,51 @@
+# BIG data
+
+4Vs = volume, velocidade, variedade, veracidade
+
+big data: alto volume de dados, velocidade e variedade.
+
+big data = materia prima, dados.
+
+ciencia de dados = conjunto de tecnicas para analisar dados
+
+bigdata+cienciadedados = big data analytics
+
+big data analytics: extrair/armazenar/processar/analisar
+
+Volume do Big Data criado diariamente= 2.5 quintillionbytes
+
+data warehouse: armazenar dados estruturados / 
+
+Data lake/Data store: dados não estruturados
+
+data **warehouse:** sistema de armazenamento p/ grandes quantidades de dados de fontes diferentes
+
+**data lake**: armazenar os dados de forma bruta
+
+DW: Extração Transformação Carga 
+
+DL: Extração Carga Transformação 
+
+Data Store: forma de armazenar dados de forma especifica. ou tipo específico 
+
+HDFS: software responsavel pelo armazenamento paralelo  ou armazenamento disttribuido em um cluster
+
+NameNode: Gerenciamento de cluster
+
+DataNodes: fazem o trabalho de armazenamento propriamente dito
+
+JobTracker: para gerenciar o processamento 
+
+TaskTrackers: fazem o trabalho de processamento 
+
+MLOps: conjunto de praticas para colaboração e comunicação entre cientistas de dados e profissionais de operações. MLOps: engenheiro de ML
+
+Small Data: Dados disponíveis em quantidade mínimas suficiente para compreensão humana
+
+DaaS/Data as a Service: estrateigia de gerenciamento de dados que visa os os dados como um ativo de negocios para maior agilidade  no processo de analise 
+
+data-driven: cultura com tomada de decisões em dados 
+
+ETL: Extract / Transform / Load
+
+ELT: Extract / Load / Transform
