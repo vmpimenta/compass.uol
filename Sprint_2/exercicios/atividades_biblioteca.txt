@@ -1,0 +1,95 @@
+EX 1: Apresente a query para listar todos os livros publicados após 2014. Ordenar pela coluna cod, em ordem crescente, as linhas.  Atenção às colunas esperadas no resultado final: cod, titulo, autor, editora, valor, publicacao, edicao, idioma.
+
+select * 
+from LIVRO 
+where publicacao > '2014-12-31'
+order by cod
+
+
+EX 2: Apresente a query para listar os 10 livros mais caros. Ordenar as linhas pela coluna valor, em ordem decrescente.  Atenção às colunas esperadas no resultado final:  titulo, valor.
+
+select 
+    titulo,
+    valor
+from LIVRO
+order by valor desc
+limit 10
+
+
+EX 3: Apresente a query para listar as 5 editoras com mais livros na biblioteca. O resultado deve conter apenas as colunas quantidade, nome, estado e cidade. Ordenar as linhas pela coluna que representa a quantidade de livros em ordem decrescente.
+
+select 
+	count(*) as quantidade,
+	nome,
+    	estado,
+    	cidade
+	
+from livro as lvr
+left join editora as edt
+	on lvr.editora = edt.codeditora
+ left join endereco as endr
+ 	on edt.endereco = endr.codEndereco
+
+group  by editora
+order by editora desc
+limit 5
+
+
+EX 4: Apresente a query para listar a quantidade de livros publicada por cada autor. Ordenar as linhas pela coluna nome (autor), em ordem crescente. Além desta, apresentar as colunas codautor, nascimento e quantidade (total de livros de sua autoria).
+
+select 
+	nome,
+    	codautor,
+   	nascimento,
+	count(publicacao) as quantidade
+        
+from livro as l
+RIGHT join autor as a
+	on l.autor = a.codautor
+    
+group by nome
+order by nome
+
+
+EX 5: Apresente a query para listar o nome dos autores que publicaram livros através de editoras NÃO situadas na região sul do Brasil. Ordene o resultado pela coluna nome, em ordem crescente. Não podem haver nomes repetidos em seu retorno.
+
+select DISTINCT
+	atr.nome
+
+from autor as atr
+left join livro as lv
+	on atr.codautor = lv.autor 
+left join editora as edt
+	on lv.editora = edt.codeditora
+
+where endereco <> 3657 and 5030 and 5173
+order by atr.nome
+
+
+EX 6: Apresente a query para listar o autor com maior número de livros publicados. O resultado deve conter apenas as colunas codautor, nome, quantidade_publicacoes.
+
+select
+    codautor,
+    nome,  
+  	count(DISTINCT publicacao) as quantidade_publicacoes
+   
+from livro as lv
+RIGHT JOIN autor as atr 
+	on lv.autor = atr.codautor
+ 
+group by autor
+ORDER by quantidade_publicacoes DESC
+limit 1
+
+
+EX 7: Apresente a query para listar o nome dos autores com nenhuma publicação. Apresentá-los em ordem crescente.
+
+SELECT 
+	nome
+   
+from livro as lv
+RIGHT join  autor as atr
+on lv.autor = atr.codAutor
+
+WHERE publicacao is NULL
+group by nome
