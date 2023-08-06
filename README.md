@@ -20,31 +20,33 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
 2. Linux:
     Curso muito bom, só tinha mexido em Linux apenas uma vez, o conceito sabia pouco, nesse curso pude mergulhar no linux com a ajuda da VM e utilizei a distro Ubuntu, utilizei os comandos Vim e Nano para edição de texto, vi sobre gerenciamento de usuários e grupos, aprendi sobre as permissões e diretórios, comandos como cat, rm, cd, find, baixei arquivos, deletei, atualização de pacotes, arquivos compactados, tudo através do terminal, conceitos básicos de rede e por fim a instalação de um LAMP para um pequeno projeto utilizando o Mysql, Apache e PhP.
 
-###    Exercícios:
+    ###    Exercícios:
 
-[1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv1.md)
+    [1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv1.md)
 
-[2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv2.md)
+    [2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv2.md)
 
-[3ª Ativdade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv3.md)
+    [3ª Ativdade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv3.md)
 
-[4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv4.md)
+    [4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv4.md)
 
 
 ### Sprint 2
 
-Nessa sprint foi ensinado a analisar dados com SQL. Pude aprender sua sintaxe básica, filtrar e analisar dados agregados com where e group by por exemplo, a usar dados de outras tabelas com a utilização dos joins e também sobre subqueries. Tudo isso usando PostgreSQL e o pgAdimin. 
+1. SQL: 
+      Nessa sprint foi ensinado a analisar dados com SQL. Pude aprender sua sintaxe básica, filtrar e analisar dados agregados com where e group by por exemplo, a usar dados de outras tabelas com a utilização dos joins e também sobre subqueries. Tudo isso usando PostgreSQL e o pgAdimin. 
 
-Ainda na sprint 2 aprendi os fundamentos de Big Data, o que é big data, sobre os 4V's(volume,velocidade,variedade e veracidade,) que os define e alguns conceitos como DW, DataLake, DataMesh e DataLakeHouse, o conceito de ETL(extract, transform, load), aprendi também sobre cloud computing e a importância de usar big data para solução de negócios.
+4. BIG_DATA: 
+    Ainda na sprint 2 aprendi os fundamentos de Big Data, o que é big data, sobre os 4V's(volume,velocidade,variedade e veracidade,) que os define e alguns conceitos como DW, DataLake, DataMesh e DataLakeHouse, o conceito de ETL(extract, transform, load), aprendi também sobre cloud computing e a importância de usar big data para solução de negócios.
 
    ### Exercícios:
-   [1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv1.md)
+    [1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv1.md)
 
-   [2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv2.md)
+    [2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv2.md)
 
-   [3ª Ativdade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv3.md)
+    [3ª Ativdade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv3.md)
 
-   [4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv4.md)
+    [4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_1/exercicios/atv4.md)
 
 
 ### Sprint 3
