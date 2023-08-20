@@ -50,3 +50,16 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
 
 
 ### Sprint 3
+1. Python: Nessa Sprint tive a possibilidade de conhecer a linguagem python, não tinha algum conhecimento prévio sobre ela, acredito que, por ter sido o primeiro contato, tive uma certa dificuldade no decorrer do curso, mas isso não desanimou, foi mais um motivo para correr atrás e aprender. Então fui desde os conceitos básicos do python e os seus fundamentos, conheci suas estruturas de controle, até orientação a objeto. O curso em si ainda não foi concluído, ele terá continuação na próxima Sprint. Devido a minha rotina e a dificuldade que tive, infelizmente não pude concluir todas as atividades dentro do prazo estipulado, ficando pendente o desafio ETL. Mas ele será finalizado do decorrer da Sprint 4.
+
+### Exercícios
+
+[1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_3/exercicios/atividades_p1.ipynb)
+
+[2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_3/exercicios/atividades_p2.ipynb)
+
+[3ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_3/exercicios/atividades_p3.ipynb)
+
+
+### Sprint 4
+...
