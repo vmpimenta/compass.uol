@@ -9,6 +9,8 @@
 
 [3ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_3/exercicios/atividades_p3.ipynb)
 
+[4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_3/exercicios/atividades_p4.ipynb)
+
    # Olá! Meu nome é Victor Pimenta!
 
 * Moro em: [Salvador-BA](https://www.google.com/maps/place/Salvador+-+BA/@-12.8754442,-38.5017983,11z/data=!3m1!4b1!4m6!3m5!1s0x716037ca23ca5b3:0x1b9fc7912c226698!8m2!3d-12.9777334!4d-38.501648!16zL20vMDl3d2xq?entry=ttu) 

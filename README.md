@@ -60,6 +60,7 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
 
 [3ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_3/exercicios/atividades_p3.ipynb)
 
+[4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_3/exercicios/atividades_p4.ipynb)
 
 ### Sprint 4
 ...
