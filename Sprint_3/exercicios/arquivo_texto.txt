@@ -1,4 +1,4 @@
 Esse e um 
 arquivo 
 de 
-teste.
+teste
