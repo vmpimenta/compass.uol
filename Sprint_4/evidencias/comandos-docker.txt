@@ -1,0 +1,61 @@
+# Docker
+
+docker run: para executar um container
+
+docker rm: para remover um container 
+
+docker ps: listar os containers em uso 
+
+docker ps -a: listar todos os containers, inclusive os parados
+
+docker -it: para ser “executável” / terminal iterativo / para fazer os códigos
+
+docker -d: rodar em segundo plano/ não ocupar o terminal
+
+docker build: para criar imagem
+
+docker image ls: listar todas as imagens instaladas
+
+docker -p: para expor uma porta/ ex: 80:80
+
+docker start: para reativar um container
+
+docker pull <imagem>: parar imagem e deixar em cache (hun.docker)
+
+docker <comando> --help: para ver opções diferentes
+
+docker tag<id> <nome>: para nomear as imagens 
+
+docker tag <nome>:<tag> para inserir “tag” que seria o mesmo que uma versão.
+
+flag -t : no docker build -t para nomear a imagem durante sua criação
+
+flag -t: nome:tag: para inserir nome e tag
+
+docker start -i <container>: para iniciar no modo iterativo.
+
+docker rmi <imagem>: para remover uma imagem 
+
+docker rmi <imagem> -f : para forçar a remoção de uma imagem 
+
+docker system prune: remove imagens, containers e networks não utilizados
+
+docker run --rm <container>: deletar automaticamente após sua utilização
+
+docker stop <nome>: parar um container
+
+docker cp: copiar container
+
+docker top <idcontainer>: verificar dados em execução de um container/processamento
+
+## Criando Imagens
+
+From: imagem base
+
+Workdir: diretório da aplicação
+
+Expose: porta da aplicação 
+
+Copy: quais arquivos precisam ser copiados
+
+Cmd: executável

@@ -36,7 +36,7 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
 1. SQL: 
       Nessa sprint foi ensinado a analisar dados com SQL. Pude aprender sua sintaxe básica, filtrar e analisar dados agregados com where e group by por exemplo, a usar dados de outras tabelas com a utilização dos joins e também sobre subqueries. Tudo isso usando PostgreSQL e o pgAdimin. 
 
-4. BIG_DATA: 
+2. BIG_DATA: 
     Ainda na sprint 2 aprendi os fundamentos de Big Data, o que é big data, sobre os 4V's(volume,velocidade,variedade e veracidade,) que os define e alguns conceitos como DW, DataLake, DataMesh e DataLakeHouse, o conceito de ETL(extract, transform, load), aprendi também sobre cloud computing e a importância de usar big data para solução de negócios.
 
     ### Exercícios:
@@ -50,7 +50,7 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
 
 
 ### Sprint 3
-1. Python: Nessa Sprint tive a possibilidade de conhecer a linguagem python, não tinha algum conhecimento prévio sobre ela, acredito que, por ter sido o primeiro contato, tive uma certa dificuldade no decorrer do curso, mas isso não desanimou, foi mais um motivo para correr atrás e aprender. Então fui desde os conceitos básicos do python e os seus fundamentos, conheci suas estruturas de controle, até orientação a objeto. O curso em si ainda não foi concluído, ele terá continuação na próxima Sprint. Devido a minha rotina e a dificuldade que tive, infelizmente não pude concluir todas as atividades dentro do prazo estipulado, ficando pendente o desafio ETL. Mas ele será finalizado do decorrer da Sprint 4.
+1. Python: Nessa Sprint tive a possibilidade de conhecer a linguagem python, não tinha algum conhecimento prévio sobre ela, acredito que, por ter sido o primeiro contato, tive uma certa dificuldade no decorrer do curso, mas isso não desanimou, foi mais um motivo para correr atrás e aprender. Então fui desde os conceitos básicos do python e os seus fundamentos, conheci suas estruturas de controle, até orientação a objeto. O curso em si ainda não foi concluído, ele terá continuação na próxima Sprint. Devido a minha rotina e a dificuldade que tive, infelizmente não pude concluir todas as atividades dentro do prazo estipulado, ficando pendente o desafio ETL. Mas ele será finalizado no decorrer da Sprint 4.
 
     ### Exercícios
 
@@ -63,4 +63,10 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
     [4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_3/exercicios/atividades_p4.ipynb)
 
 ### Sprint 4
-...
+1. Finalizando o curso de python nessa sprint com "Programação Funcional", consegui concluir as atividades dentro do prazo e finalizando o desafio que ficou pendente da sprint passada. Ainda na Sprint 4 também acompanha o curso de Docker e Estátistica Descritiva com Python. As atividades do curso de Docker também estão sendo entregues, só que em contrapartida não concluí os cursos em sí, priorizei a entrega das atividades buscando conteúdo além da trilha. Fiz essa escolha por motivo de tempo e da rotina, agora na próxima Sprint irei finalizar os cursos pendentes e também correr para concluír dentro do prazo!
+
+    ### Exercícios
+
+    [1ª Atividade]()
+
+    [2ª Atividade]()
