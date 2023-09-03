@@ -67,6 +67,9 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
 
     ### Exercícios
 
-    [1ª Atividade]()
+    [1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_4/exercicios/atividade_python.ipynb)
 
-    [2ª Atividade]()
+    [2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_4/exercicios/Dockerfile)
+
+    [3ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_4/exercicios/mascarar-dados.py)
+    
