@@ -1,5 +1,5 @@
 ### Sprint 4
-1. Finalizando o curso de python nessa sprint com "Programação Funcional", consegui concluir as atividades dentro do prazo e finalizando o desafio que ficou pendente da sprint passada. Ainda na Sprint 4 também acompanha o curso de Docker e Estátistica Descritiva com Python. As atividades do curso de Docker também estão sendo entregues, só que em contrapartida não concluí os cursos em sí, priorizei a entrega das atividades buscando conteúdo além da trilha. Fiz essa escolha por motivo de tempo e da rotina, agora na próxima Sprint irei finalizar os cursos pendentes e também correr para concluír dentro do prazo!
+1. Finalizando o curso de python nessa sprint com "Programação Funcional", consegui concluir as atividades dentro do prazo e finalizando o desafio que ficou pendente da sprint passada. Ainda na Sprint 4 também acompanha o curso de Docker e Estátistica Descritiva com Python. As atividades do curso de Docker também estão sendo entregues, só que em contrapartida não concluí os cursos em sí, priorizei a entrega das atividades buscando conteúdo além da trilha. Fiz essa escolha por motivo de tempo e da rotina, agora na próxima Sprint irei finalizar os cursos pendentes e também correr para concluír dentro do prazo! **ATT: Não consegui concluir os cursos dentro do prazo para obter os certificados.**
 
     ### Exercícios
 

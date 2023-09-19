@@ -72,4 +72,19 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
     [2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_4/exercicios/Dockerfile)
 
     [3ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_4/exercicios/mascarar-dados.py)
+
+### Sprint 5
+1. AWS: Cloud Practitioner:
+    Nessa Sprint iniciamos o uso da AWS aprendendo os fundamentos de computação em nuvem e conhecendo alguns de seus serviços. Os cursos no geral foram bem interessantes, apesar de ter bastante conteúdo teórico o Cloud Quest permitiu abusar um pouco da prática. Minha maior dificuldade foi na questão da linguaguem, pois os cursos estão em inglês, entendo que isso me deixa mais familiarizado com a língua, pois na nossa profissão é extremamente necessário. No fim absorvi o aprendizado e gostei bastante dessa Sprint! Ah, O "Exam Prep" foi concluído na terça, estava atrasado por conta da Sprint passada e na segunda devido a rotina do trabalho/faculdade não pude concluir.
+
+    ### Exercícios 
+
+    [1ª Atividade](https://www.credly.com/badges/e127cd1f-def1-4e6f-a80f-63ef8e64da84/public_url)
     
+    [2ª Atividade](https://www.credly.com/badges/33c4a576-c0ba-4811-b36d-74e172beb2e3/public_url)
+
+    [3ª Atividade](https://www.credly.com/badges/f88aafe7-a82e-46d2-946d-05b84378ebe4/public_url)
+
+    [4ª Atividade](https://www.credly.com/badges/d3511ecd-7391-4830-aaa8-486b074853f8/public_url)
+
+    [5ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_5/certificados/examprep.png)
