@@ -75,8 +75,7 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
 
 ### Sprint 5
 1. AWS: Cloud Practitioner:
-    Nessa Sprint iniciamos o uso da AWS aprendendo os fundamentos de computação em nuvem e conhecendo alguns de seus serviços. Os cursos no geral foram bem interessantes, apesar de ter bastante conteúdo teórico o Cloud Quest permitiu abusar um pouco da prática. Minha maior dificuldade foi na questão da linguaguem, pois os cursos estão em inglês, entendo que isso me deixa mais familiarizado com a língua, pois na nossa profissão é extremamente necessário. No fim absorvi o aprendizado e gostei bastante dessa Sprint! Ah, O "Exam Prep" foi concluído na terça, estava atrasado por conta da Sprint passada e na segunda devido a rotina do trabalho/faculdade não pude concluir.
-
+    Nessa Sprint iniciamos o uso da AWS aprendendo os fundamentos de computação em nuvem e conhecendo alguns de seus serviços. Os cursos no geral foram bem interessantes, apesar de ter bastante conteúdo teórico o Cloud Quest permitiu abusar um pouco da prática. Minha maior dificuldade foi na questão da linguaguem, pois os cursos estão em inglês, entendo que isso me deixa mais familiarizado com a língua, pois na nossa profissão é extremamente necessário. No fim absorvi o aprendizado e gostei bastante dessa Sprint!
     ### Exercícios 
 
     [1ª Atividade](https://www.credly.com/badges/e127cd1f-def1-4e6f-a80f-63ef8e64da84/public_url)
