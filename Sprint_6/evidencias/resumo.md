@@ -7,10 +7,13 @@ As empresas usam essas soluções de dados para ganhar vantagem no mercado. O ob
 Uma solução de avaliação dos dados contém os seguintes passos:
 Coleta > Armazenamento > Análise > Visualização
 
-**Coleta:** Quando absorvemos dados de uma grande variedade de fontes.
-**Armazenamento:** Armazenamos dados no momento da coleta, armazenamos enquanto estão sendo processados e armazenamos também no momento da visualização. 10% dos dados gerados ou coletados pelas empresas são estruturados, 10% semiestruturados, 80% não estruturados.
-**Análise:** Processamento de dados é coletar e manipular os dados para produzir informações significativas. Esses processamentos podem ser em lote/batch(processamento em intervalos), ou streaming(tempo real/processamento continuo).
-**Visualização:** Extrair dos dados informações importantes.
+* **Coleta:** Quando absorvemos dados de uma grande variedade de fontes.
+
+* **Armazenamento:** Armazenamos dados no momento da coleta, armazenamos enquanto estão sendo processados e armazenamos também no momento da visualização. 10% dos dados gerados ou coletados pelas empresas são estruturados, 10% semiestruturados, 80% não estruturados.
+
+* **Análise:** Processamento de dados é coletar e manipular os dados para produzir informações significativas. Esses processamentos podem ser em lote/batch(processamento em intervalos), ou streaming(tempo real/processamento continuo).
+
+* **Visualização:** Extrair dos dados informações importantes.
 
 
 ### Os 5Vs do BIG DATA e soluções na nuvem
