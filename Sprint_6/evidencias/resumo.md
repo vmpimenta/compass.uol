@@ -52,10 +52,10 @@ Criação > Agregação > Armazenamento > Arquivamento/Acesso > Compartilhamento
 Nesse curso foi abordado questões de negócios sobre os serviços da AWS, falando também sobre o conceito de BIG DATA e como a nuvem falicita/ajuda as empresas a usarem esse mar de dados ao seu favor, já que de maneira on-premises seria mais complicado. Trouxe alguns serviços como exemplos e empresas que usaram e usam esses serviços no seu dia a dia. Também omo conversas de negócios para avaliar e ajudar novos clientes.
 
 **Framework de perguntas para qualificar uma oportunidade:**
-![Perguntas de Descobertas](ColocarLink)
+[Perguntas de Descobertas](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_6/evidencias/perguntas.jpg)
 
 **Trouxe também algumas soluções da AWS que achei interessante:**
-![Soluções da AWS](ColocarLink)
+[Soluções da AWS](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_6/evidencias/solucoes.jpg)
 
 AWS Lake Formation: Simplifica e automatiza o processo para criar um data lake seguro, reduzindo o tempo de configuração de meses para dias.
 
