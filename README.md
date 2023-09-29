@@ -87,3 +87,15 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
     [4ª Atividade](https://www.credly.com/badges/d3511ecd-7391-4830-aaa8-486b074853f8/public_url)
 
     [5ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_5/certificados/examprep.png)
+
+### Sprint 6
+1. AWS Data & Analytics: 
+    Essa Sprint foi um pouco mais tranquila do que as outras, foi parecida com a passada, apesar de ter bastante conteúdo para assimilar. Mas consegui finalizar dentro do prazo e aprendi novos recursos e serviços que com certeza serão úteis daqui pra frente. Aqui está o link para o ![laboratório](https://www.notion.so/LABS-ba972189e01d4b4e8f75ce05fc407fcb?pvs=4) que está no Notion. 
+
+    ### Exercícios 
+
+    [1ª Atividade]()
+    
+    [2ª Atividade]()
+
+    [3ª Atividade]()
