@@ -117,4 +117,4 @@ As análises permitem que você tome decisões rápidas e bem-informadas para me
 
 
 ## Lab
-![Link de Redirecionamento pro Notion](https://www.notion.so/LABS-ba972189e01d4b4e8f75ce05fc407fcb?pvs=4)
+[Link de Redirecionamento pro Notion](https://www.notion.so/LABS-ba972189e01d4b4e8f75ce05fc407fcb?pvs=4) *correção do link*
