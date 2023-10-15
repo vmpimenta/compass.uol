@@ -103,14 +103,14 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
 ### Sprint 7
 1. AWS GLUE/Spark/Pandas: De longe essa foi a Sprint mais complicada até agora, tive bastante dificuldade com as query do AWS GLUE, aparentemente os dados lá são "DynamicFrames" e a forma de manipular é um pouco diferente, vou precisar me aprofundar mais nele, pois ainda está um pouco complicado o entendimento, apesar de que o conceito do por que usá-lo está claro. Tivemos uma atividade para manipular dados usando o pandas que foi mais tranquila (vale ressaltar que todos os conteúdos desde a Sprint 1, estou tendo o primeiro contato agora com o programa de bolsas, já conhecia as tecnologias mas nunca cheguei a estudar ou usar). Outra atividade foi usando o spark e o docker, onde foi preciso usar uma imagem do jupyter/spark para acessar o spark através através de um container docker e rodar um codigo python para contar a frequência de cada palavra no nosso README.md. Por fim o desafio que também deu bastante trabalho e apesar de ter enviando na udemy, ainda fiz algumas alterações para atender o que foi pedido, o código está aqui e acho que é isso.
 
-### Exercícios:
+    ### Exercícios:
 
-[1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/atividades/pandas.ipynb)
+    [1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/atividades/pandas.ipynb)
 
-[2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/evidencias/evidencia.jpg)
+    [2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/evidencias/evidencia.jpg)
 
-[3ª Ativdade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/evidencias/dockerfile_build_volume_container.jpg)
+    [3ª Ativdade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/evidencias/dockerfile_build_volume_container.jpg)
 
-[4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/evidencias/codigo_acesso_envio_s3_aws.jpg)
+    [4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/evidencias/codigo_acesso_envio_s3_aws.jpg)
 
 ### Sprint 8
