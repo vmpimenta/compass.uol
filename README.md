@@ -105,10 +105,12 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
 
 ### Exercícios:
 
-[1ª Atividade](https)
+[1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/atividades/pandas.ipynb)
 
-[2ª Atividade](https)
+[2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/evidencias/evidencia.jpg)
 
-[3ª Ativdade](https)
+[3ª Ativdade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/evidencias/dockerfile_build_volume_container.jpg)
 
-[4ª Atividade](https)
+[4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/evidencias/codigo_acesso_envio_s3_aws.jpg)
+
+### Sprint 8
