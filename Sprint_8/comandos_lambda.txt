@@ -1,0 +1,73 @@
+import json
+import pandas as pd
+import requests
+import boto3
+from datetime import date
+from io import StringIO
+
+
+def lambda_handler(event, context):
+    dia = date.today()
+    
+    client = boto3.client('s3',
+                        aws_access_key_id="*****",
+                        aws_secret_access_key="*****"
+                        )
+    
+    api_key = "*****"
+
+    pagina = 1
+
+    todos_filmes = []
+
+    url = f"https://api.themoviedb.org/3/company/420/movies?api_key={api_key}&page={pagina}"
+
+    response = requests.get(url)
+    data2 = response.json()
+    
+    while True:
+        response = requests.get(f"{url}&page={pagina}")
+        
+        if response.status_code == 200:
+            data = response.json()
+            filmes = data['results']
+            
+            todos_filmes.extend(filmes)
+            
+            if data['page'] < data['total_pages']:
+                pagina += 1
+            else:
+                break
+        else:
+            print("Falha na solicitação à API TMDb")
+            break
+    
+    
+    ids = []
+
+    for i in todos_filmes:
+        ids.append(i['id'])
+        
+        budget = []
+        revenue = []
+        ID = []
+        duracao = []
+        
+    for movie_id in ids:
+        api_key = "daf5f32dfa7544308f3ee53ae06d0a74"
+        url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={api_key}"
+        response = requests.get(url)
+        if response.status_code == 200:
+            data = response.json()
+            budget.append(data['budget'])
+            revenue.append(data['revenue'])
+            ID.append(data['id'])
+            duracao.append(data['runtime'])
+    
+    todos_filmes = pd.DataFrame(todos_filmes)
+    df_teste = pd.DataFrame({'Orçamento':budget, 'Receita':revenue, 'id':ID, 'Duração':duracao})
+    juntos = pd.merge(todos_filmes, df_teste, on='id')
+    
+    meus_filmes = juntos.to_json(orient='records')
+    
+    client.put_object(Body=meus_filmes, Bucket="pimprawzone", Key=(f"Raw/tmdb/json/{dia.year}/{dia.month}/{dia.day}/meusfilmes.json"))

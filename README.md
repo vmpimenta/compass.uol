@@ -113,4 +113,36 @@ Durante as horas vagas costumo jogar [vôlei](https://www.instagram.com/volei.da
 
     [4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_7/evidencias/codigo_acesso_envio_s3_aws.jpg)
 
-### Sprint 8
+ ### Sprint 8
+1. Desafio P2: Nessa Sprint, era preciso fazer uma requisição da API TMDB usando o AWS LAMBDA para buscar novos dados, assim complementando as informações já existentes do arquivo CSV. No começo ficou um pouco complicado o entendimento, imaginei que fosse preciso fazer mais coisas e acabei me atrasando demais. Após algumas conversas pude entender a simplicidade do desafio. Não subi as atualizações e códigos pro github no prazo, mas consegui finalizar! Além do desafio principal, algumas tarefas usando o pandas e o pyspark foram realizadas também.
+
+### Exercícios:
+
+[1ª Atividade](https://github.com/vmpimenta/compass.uol/tree/main/Sprint_8/exercicios/gerador_nomes.ipynb)
+
+[2ª Atividade](https://github.com/vmpimenta/compass.uol/tree/main/Sprint_8/exercicios/animais_ordenados.ipynb)
+
+[3ª Ativdade](https://github.com/vmpimenta/compass.uol/tree/main/Sprint_8/exercicios/animais.csv)
+
+[4ª Atividade](https://github.com/vmpimenta/compass.uol/tree/main/Sprint_8/exercicios/numeros_aleatorios.ipynb)
+
+[5ª Atividade](https://github.com/vmpimenta/compass.uol/tree/main/Sprint_8/exercicios/tarefa4.ipynb)
+
+[6ª Atividade](https://github.com/vmpimenta/compass.uol/tree/main/Sprint_8/exercicios/desafio.jpg)
+
+### Sprint 9
+1. Desafio P3: A sprint atual trouxe atividades práticas referentes a modelagem de dados, também os conceitos da modelagem relacional e dimensional. E na parte do desafio, foi preciso criar a camada trusted, que é uma camada de armazenamento os dados devem ser confiáveis, fazendo todos os tratamentos para que isso aconteça. A partir dos dados confiáveis, o desafio agora foi modelar esses dados para a camada refined, que são os dados que de fato iremos usar para fazer nossas análises. Por estar bastante atrasado as atividades de modelagem não foram totalmente concluídas. E por conta da dificuldade que tive com o AWS Glue acabei atrasando ainda mais a entrega dessa Sprint.
+
+    ### Exercícios:
+
+    [1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/exercicios/script_glue_refined.jpg)
+
+    [2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/exercicios/script_glue_trusted.jpg)
+
+    [3ª Ativdade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/exercicios/tarefa1_normalizacao.jpg)
+
+    [4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/exercicios/tarefa2_dimensional.jpg)
+
+    [5ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/exercicios/runs_glue_trusted.jpg)
+
+### Sprint 10
