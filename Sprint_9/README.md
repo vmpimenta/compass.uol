@@ -3,15 +3,15 @@
 
     ### Exercícios:
 
-    [1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/exercicios/script_glue_refined.jpg)
+    [1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/evidencias/script_glue_refined.jpg)
 
-    [2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/exercicios/script_glue_trusted.jpg)
+    [2ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/evidencias/script_glue_trusted.jpg)
 
     [3ª Ativdade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/exercicios/tarefa1_normalizacao.jpg)
 
     [4ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/exercicios/tarefa2_dimensional.jpg)
 
-    [5ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/exercicios/runs_glue_trusted.jpg)
+    [5ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_9/evidencias/runs_glue_trusted.jpg)
 
   # Olá! Meu nome é Victor Pimenta!
 
