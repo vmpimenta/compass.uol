@@ -1,0 +1,55 @@
+import sys
+from awsglue.transforms import *
+from awsglue.utils import getResolvedOptions
+from pyspark.context import SparkContext
+from awsglue.context import GlueContext
+from awsglue.job import Job
+from awsglue.transforms import *
+from pyspark.sql.functions import *
+from pyspark.sql import functions as Func
+
+## @params: [JOB_NAME]
+args = getResolvedOptions(sys.argv, ['JOB_NAME', 'S3_INPUT_PATH', 'S3_TARGET_PATH'])
+
+sc = SparkContext()
+glueContext = GlueContext(sc)
+spark = glueContext.spark_session
+job = Job(glueContext)
+job.init(args['JOB_NAME'], args)
+
+target_path = args['S3_TARGET_PATH']
+source_file = args['S3_INPUT_PATH']
+
+df = spark.read.format("json").load(source_file)
+
+df_spark = (
+    df
+    .na.fill("Null", subset=['backdrop_path', 'original_language', 'original_title', 'overview', 'poster_path', 'release_date', 'title'])
+    .na.fill(1, subset=['genre_ids'])
+    .na.fill(0, subset=['id', 'popularity', 'vote_average', 'vote_count'])
+    .na.fill("Null", subset=['poster_path'])
+    .na.fill("0-0-0", subset=['release_date'])
+    .na.fill(False, subset=['video'])
+)
+
+df_spark = df_spark.withColumnRenamed('original_language',"Linguagem_Original")
+df_spark = df_spark.withColumnRenamed('original_title',"Titulo_Original")
+df_spark = df_spark.withColumnRenamed('overview',"Visao_Geral")
+df_spark = df_spark.withColumnRenamed('poster_path',"Poster")
+df_spark = df_spark.withColumnRenamed('release_date',"Lancamento")
+df_spark = df_spark.withColumnRenamed('title',"Titulo")
+df_spark = df_spark.withColumnRenamed('video',"Video")
+df_spark = df_spark.withColumnRenamed('genre_ids',"IdGenero")
+df_spark = df_spark.withColumnRenamed('id',"Id")
+df_spark = df_spark.withColumnRenamed('backdrop_path',"PanoFundo")
+df_spark = df_spark.withColumnRenamed('vote_count',"Votos")
+df_spark = df_spark.withColumnRenamed('vote_average',"Nota")
+df_spark = df_spark.withColumnRenamed('popularity',"Popularidade")
+df_spark = df_spark.withColumnRenamed('adult',"Adulto")
+
+df_spark.write.format("parquet").save(target_path)
+
+                                    
+    # TODO: write code...
+
+job.commit()
