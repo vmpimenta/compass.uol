@@ -154,4 +154,4 @@ Mas no fim das contas, consegui correr atrás desse tempo perdido e concluí o d
 
    ## Exercícios:
 
-   [1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_10/exercicios/dashboard.victorpimenta.jpg)
+   [1ª Atividade](https://github.com/vmpimenta/compass.uol/blob/main/Sprint_10/exercicios/dashboard.victorpimenta.png)
